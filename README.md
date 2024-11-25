@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/150" alt="Your Photo" style="border-radius: 50%; width: 150px;">
+<!--<img src="https://via.placeholder.com/150" alt="Your Photo" style="border-radius: 50%; width: 150px;">-->
 <div align="center">
   <h1>🌟 Analista de Datos | Full Stack Developer 🌟</h1>
 </div>
