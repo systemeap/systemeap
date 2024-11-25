@@ -16,8 +16,6 @@ Proyectos en los cuales demuestro algunas de mis habilidades a la hora de ponerl
 - ![NoSQL](https://img.shields.io/badge/NoSQL-15A74B?style=for-the-badge)
 
 ### 📊 Visualización y BI:
-### 🔑 Lenguajes y Tecnologías:
- ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=for-the-badge&logo=XGBoost&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/Power--BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ### 🤖 Machine Learning:
@@ -31,9 +29,9 @@ Proyectos en los cuales demuestro algunas de mis habilidades a la hora de ponerl
 
 ## 🧰 **Proyectos Destacados**
 ### 📊 **Análisis de Datos y Machine Learning**
-#### 1️⃣ [Análisis de Ventas Globales](https://github.com/usuario/proyecto-ventas)
+#### 1️⃣ [Análisis de datos de conectividad](https://github.com/systemeap/Analysis-All-Argentine)
 - Herramientas: Python, Pandas, Matplotlib.
-- Descripción: Exploración y análisis de datos de ventas globales para identificar tendencias y optimizar decisiones comerciales.
+- Descripción: Este proyecto ha sido desarrollado para ALL ARGENTINA, una empresa que brinda servicios de análisis de datos a nivel nacional. Me contrataron como DATA ANALITICS. El objetivo principal es analizar datos de ENACOM (Ente Nacional de Comunicaciones), enfocados en los servicios de internet en Argentina. El análisis de datos busca identificar patrones clave de conectividad y calidad del servicio, con el fin de proporcionar información valiosa que pueda apoyar en la toma de decisiones estratégicas para mejorar la infraestructura de telecomunicaciones. con respecto a la provincia, localidad o partido que lo solcite.
 
 #### 2️⃣ [Modelo de Clasificación de Clientes](https://github.com/usuario/modelo-clasificacion)
 - Herramientas: Scikit-learn, NumPy, SciPy.
