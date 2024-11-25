@@ -35,7 +35,8 @@ Proyectos en los cuales demuestro algunas de mis habilidades a la hora de ponerl
 
 #### 2️⃣ [Sistema de Recomendacion](https://github.com/systemeap/Movie-Recomendation-System)
 - Herramientas: Scikit-learn, NumPy, SciPy.
-- Descripción: PROYECTO INDIVUDUAL, el cual es un MVP, para un sistema de recomendación de películas. Para este vamos a recordar tiempo atrás cuando comencé, con la CIENCIA DE DATOS y termine aprendiendo MACHINE LEARNING, para este utilizare distintas técnicas y librerias que aprendí en el transcurso del cursado como (numpy, pandas, ETL, EDA, ML). Este proyecto simula un ambiente de trabajo real en una start-up que provee servicios de agregación de plataformas de streaming. Para este ´proyecto voy a desarrollar una API, con 5 endpoints en los cuales nos permiten consultar información detallada sobre ( las películas, los actores y directores), y por ultimo con estos datos (genero, actores principales, directores y otros), elegir los más representativos y obtener recomendaciones de películas basadas en ellos.
+- Descripción: PROYECTO INDIVUDUAL, el cual es un MVP, para un sistema de recomendación de películas. Para este proyecto utilizare distintas técnicas y librerias como (numpy, pandas, matplotlib, ETL, EDA, ML). Este proyecto simula un ambiente de trabajo real en una start-up que provee servicios de agregación de plataformas de streaming. Para este ´proyecto voy a desarrollar una API, con 5 endpoints en los cuales nos permiten consultar información detallada sobre ( las películas, los actores y directores), y por ultimo con estos datos (genero, actores principales, directores y otros), elegir los más representativos y obtener recomendaciones de películas basadas en ellos.
+
 ### 🔗 **Integración con Bases de Datos**
 #### 3️⃣ [Sistema de Inventario con SQL]((https://github.com/usuario/inventario-sql)
 - Herramientas: MySQL, Python.
