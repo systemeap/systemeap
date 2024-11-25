@@ -43,7 +43,7 @@ Proyectos en los cuales demuestro algunas de mis habilidades a la hora de ponerl
 - Descripción: Creación de un sistema para gestionar inventarios y consultas SQL avanzadas.
 
 ## 📈 **Estadísticas**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=systemeap&show_icons=true&theme=radical)
 
 ---
 
