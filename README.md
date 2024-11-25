@@ -1,11 +1,9 @@
 <img src="https://via.placeholder.com/150" alt="Your Photo" style="border-radius: 50%; width: 150px;">
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Your Photo" style="border-radius: 50%; width: 150px;">
   <h1>🌟 Analista de Datos | Full Stack Developer 🌟</h1>
 </div>
-# 🌟 Analista de Datos | Full Stack Developer 🌟
-
-¡Bienvenido a mi repositorio! Soy un apasionado por la **tecnología**, el **análisis de datos**, y el **desarrollo de soluciones inteligentes**. Aquí encontrarás proyectos en los que utilizo mis habilidades para resolver problemas reales, analizar datos, y construir aplicaciones funcionales.
+En mi repositorio podes encontrar proyectos de tecnologias realizados sobre el **análisis de datos**, **desarrollo de soluciones inteligentes**. 
+Proyectos en los cuales demuestro algunas de mis habilidades a la hora de ponerlas en practica
 
 ---
 
