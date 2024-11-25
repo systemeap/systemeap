@@ -38,16 +38,9 @@ Proyectos en los cuales demuestro algunas de mis habilidades a la hora de ponerl
 - Descripción: PROYECTO INDIVUDUAL, el cual es un MVP, para un sistema de recomendación de películas. Para este proyecto utilizare distintas técnicas y librerias como (numpy, pandas, matplotlib, ETL, EDA, ML). Este proyecto simula un ambiente de trabajo real en una start-up que provee servicios de agregación de plataformas de streaming. Para este ´proyecto voy a desarrollar una API, con 5 endpoints en los cuales nos permiten consultar información detallada sobre ( las películas, los actores y directores), y por ultimo con estos datos (genero, actores principales, directores y otros), elegir los más representativos y obtener recomendaciones de películas basadas en ellos.
 
 ### 🔗 **Integración con Bases de Datos**
-#### 3️⃣ [Sistema de Inventario con SQL]((https://github.com/usuario/inventario-sql)
+#### 3️⃣ [Sistema de Inventario con SQL]((https://github.com/systemeap/inventario-sql)
 - Herramientas: MySQL, Python.
 - Descripción: Creación de un sistema para gestionar inventarios y consultas SQL avanzadas.
-
-### 🖥️ **Aplicaciones Web**
-#### 4️⃣ [Dashboard Interactivo con Power BI](https://github.com/usuario/dashboard-powerbi)
-- Herramientas: Power BI.
-- Descripción: Visualización interactiva de datos financieros para una empresa ficticia.
-
----
 
 ## 📈 **Estadísticas**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical)
@@ -55,9 +48,8 @@ Proyectos en los cuales demuestro algunas de mis habilidades a la hora de ponerl
 ---
 
 ## 💡 **Contacto**
-- 📧 Email: [tuemail@example.com](mailto:tuemail@example.com)
-- 🌐 LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
-- 🧑‍💻 Portfolio: [tuportfolio.com](https://tuportfolio.com)
+- 📧 Email: [tuemail@example.com](mailto:systemeap@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/tuperfil](https://www.linkedin.com/in/esteban-ariel-parr%C3%B3n)
 
 ---
 
@@ -65,7 +57,6 @@ Proyectos en los cuales demuestro algunas de mis habilidades a la hora de ponerl
 Este repositorio está bajo la Licencia MIT. ¡Siéntete libre de usar el código para tus proyectos!
 
 ---
-
 ## 🎨 **Inspiración**
 > "Los datos son el nuevo petróleo, pero es el análisis lo que los convierte en valor."
 
