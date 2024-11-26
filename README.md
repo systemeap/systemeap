@@ -45,8 +45,8 @@ Proyectos en los cuales demuestro algunas de mis habilidades a la hora de ponerl
 ---
 
 ## 💡 **Contacto**
-- 📧 Email: [tuemail@example.com](mailto:systemeap@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/tuperfil](https://www.linkedin.com/in/esteban-ariel-parr%C3%B3n)
+- 📧 Email:(mailto:systemeap@gmail.com)
+- 🌐 LinkedIn: (https://www.linkedin.com/in/esteban-ariel-parr%C3%B3n)
 
 ---
 
